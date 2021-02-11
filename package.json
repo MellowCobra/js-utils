@@ -1,0 +1,23 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "Utility methods for JavaScript which are (infuriatingly) not included in the standard library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MellowCobra/js-utils.git"
+  },
+  "keywords": [
+    "js",
+    "utility"
+  ],
+  "author": "MellowCobra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MellowCobra/js-utils/issues"
+  },
+  "homepage": "https://github.com/MellowCobra/js-utils#readme"
+}
